@@ -5,6 +5,7 @@ Este proyecto fue realizado como parte del curso de **Alura Latam**. Su objetivo
 ## 🎯 Propósito del Análisis
 
 Se realizará un análisis comparativo entre cuatro tiendas.
+
 -Ingresos totales por tienda.
 - Categorías de productos más y menos vendidos.
 - Calificaciones promedio de clientes.
