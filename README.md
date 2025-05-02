@@ -6,7 +6,7 @@ Este proyecto fue realizado como parte del curso de **Alura Latam**. Su objetivo
 
 Se realizará un análisis comparativo entre cuatro tiendas.
 
--Ingresos totales por tienda.
+- Ingresos totales por tienda.
 - Categorías de productos más y menos vendidos.
 - Calificaciones promedio de clientes.
 - Productos más y menos vendidos.
