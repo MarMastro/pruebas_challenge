@@ -30,8 +30,5 @@ De acuerdo a los datos análizados el Sr. Juan debería vender la Tienda 4:
 💼 Desarrollado por Marcelo Mastrogiovanni
 📅 Abril 2025
 
----
 
-**Desarrollado por:** *[Tu Nombre]*  
-Curso: *Nombre del curso o formación*
 
